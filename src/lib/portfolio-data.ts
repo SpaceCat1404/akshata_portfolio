@@ -40,7 +40,7 @@ export const portfolioData = {
     },
   ],
   achievements: [
-    { title: "Mini-Nobel Laureate Scholar ��19", description: "national top 30" },
+    { title: "Mini-Nobel Laureate Scholarship", description: "Tutionfee waiver for the remaining years" },
     { title: "Asset Intl.", description: "top 5 %ile 3 yrs consecutively" },
     { title: "Design Championship", description: "regional finalist ’20" },
     { title: "WhiteHat Jr.", description: "JS & Python double certification" },
@@ -55,6 +55,7 @@ export const portfolioData = {
   },
   microCertifications: [
     "Oracle Java",
+    "Microsoft Azure Fundamentals",
   ],
   blogPosts: [
     {
